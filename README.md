@@ -1,2 +1,2 @@
 # Netflix_Case_Study
-Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.
+Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. Analyze data to help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries
